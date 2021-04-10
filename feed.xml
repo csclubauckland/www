@@ -3,12 +3,24 @@
     <title>CS Club Auckland</title>
     <link href="https://csclubauckland.github.io/www/feed.xml" rel="self" />
     <link href="https://csclubauckland.github.io/www" />
-    <updated>2021-04-10T17:04:45+12:00</updated>
+    <updated>2021-04-10T19:49:45+12:00</updated>
     <author>
         <name>Tomas Adamek</name>
     </author>
     <id>https://csclubauckland.github.io/www</id>
 
+    <entry>
+        <title>Kontakt</title>
+        <author>
+            <name>Tomas Adamek</name>
+        </author>
+        <link href="https://csclubauckland.github.io/www/kontakt.html"/>
+        <id>https://csclubauckland.github.io/www/kontakt.html</id>
+
+        <updated>2021-04-10T19:49:45+12:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Guláš 2020</title>
         <author>
@@ -16,10 +28,11 @@
         </author>
         <link href="https://csclubauckland.github.io/www/gulas-2020.html"/>
         <id>https://csclubauckland.github.io/www/gulas-2020.html</id>
-            <category term="Gulas"/>
+            <category term="Guláš"/>
+            <category term="Akce"/>
             <category term="2020"/>
 
-        <updated>2021-04-10T17:03:50+12:00</updated>
+        <updated>2021-04-10T17:43:29+12:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -30,36 +43,61 @@
         </author>
         <link href="https://csclubauckland.github.io/www/gulas-2021.html"/>
         <id>https://csclubauckland.github.io/www/gulas-2021.html</id>
-            <category term="Gulas"/>
+            <category term="Guláš"/>
+            <category term="Akce"/>
             <category term="2021"/>
 
-        <updated>2021-04-10T17:04:00+12:00</updated>
+        <updated>2021-04-10T17:43:20+12:00</updated>
             <summary></summary>
         <content></content>
     </entry>
     <entry>
-        <title>Nadcházející akce</title>
+        <title>Co chystáme</title>
         <author>
             <name>Tomas Adamek</name>
         </author>
-        <link href="https://csclubauckland.github.io/www/nadchazejici-akce.html"/>
-        <id>https://csclubauckland.github.io/www/nadchazejici-akce.html</id>
+        <link href="https://csclubauckland.github.io/www/chystane-akce-2.html"/>
+        <id>https://csclubauckland.github.io/www/chystane-akce-2.html</id>
 
-        <updated>2021-04-10T17:04:30+12:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2021-04-10T19:46:11+12:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://csclubauckland.github.io/www/media/posts/3/pig1.jpg" alt="" />
+                    Zrovna pilně pracujeme na přípravách pro letošního Čuníka na grilu (1. květen) a Pálení Čarodějnic (30. dubna). Více informací naleznete na našich facebookových stránkách.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://csclubauckland.github.io/www/media/posts/3/pig1.jpg" alt="" />
+                <p>Zrovna pilně pracujeme na přípravách pro letošního Čuníka na grilu (1. květen) a Pálení Čarodějnic (30. dubna). Více informací naleznete na našich <a href="https://www.facebook.com/csclubakl/events/" target="_blank" rel="noopener noreferrer">facebookových stránkách</a>.</p>
+            ]]>
+        </content>
     </entry>
     <entry>
-        <title>Předchozí akce</title>
+        <title>Proběhlé akce</title>
         <author>
             <name>Tomas Adamek</name>
         </author>
-        <link href="https://csclubauckland.github.io/www/predchozi-akce.html"/>
-        <id>https://csclubauckland.github.io/www/predchozi-akce.html</id>
+        <link href="https://csclubauckland.github.io/www/probehle-akce.html"/>
+        <id>https://csclubauckland.github.io/www/probehle-akce.html</id>
+            <category term="Akce"/>
 
-        <updated>2021-04-10T17:04:45+12:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2021-04-10T19:41:29+12:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://csclubauckland.github.io/www/media/posts/2/gulas-1.JPG" alt="" />
+                    <p>Jednou z hlavních aktivit Českého klubu je pořádání akcí pro krajany a jejich děti. Ať už se jedná o Guláš party, opékání čuníka popřípadě několikadenní pobyt na jednom z mnoha Aucklandskych ostrůvků.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://csclubauckland.github.io/www/media/posts/2/gulas-1.JPG" alt="" />
+                <p>Jednou z hlavních aktivit Českého klubu je pořádání akcí pro krajany a jejich děti. Ať už se jedná o Guláš party, opékání čuníka popřípadě několikadenní pobyt na jednom z mnoha Aucklandskych ostrůvků.</p>
+
+<p>Na následující stránce naleznete pár fotoreportu z již proběhlých akcí.</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>O klubu</title>
