@@ -1,0 +1,77 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "CS Club Auckland",
+    "description": "",
+    "home_page_url": "https://csclubauckland.github.io/www",
+    "feed_url": "https://csclubauckland.github.io/www/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Tomas Adamek"
+    },
+    "items": [
+        {
+            "id": "https://csclubauckland.github.io/www/gulas-2020.html",
+            "url": "https://csclubauckland.github.io/www/gulas-2020.html",
+            "title": "Guláš 2020",
+            "author": {
+                "name": "Tomas Adamek"
+            },
+            "tags": [
+                   "Gulas",
+                   "2020"
+            ],
+            "date_published": "2021-04-10T16:52:07+12:00",
+            "date_modified": "2021-04-10T17:03:50+12:00"
+        },
+        {
+            "id": "https://csclubauckland.github.io/www/gulas-2021.html",
+            "url": "https://csclubauckland.github.io/www/gulas-2021.html",
+            "title": "Guláš 2021",
+            "author": {
+                "name": "Tomas Adamek"
+            },
+            "tags": [
+                   "Gulas",
+                   "2021"
+            ],
+            "date_published": "2021-04-10T16:52:03+12:00",
+            "date_modified": "2021-04-10T17:04:00+12:00"
+        },
+        {
+            "id": "https://csclubauckland.github.io/www/nadchazejici-akce.html",
+            "url": "https://csclubauckland.github.io/www/nadchazejici-akce.html",
+            "title": "Nadcházející akce",
+            "author": {
+                "name": "Tomas Adamek"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-10T16:51:58+12:00",
+            "date_modified": "2021-04-10T17:04:30+12:00"
+        },
+        {
+            "id": "https://csclubauckland.github.io/www/predchozi-akce.html",
+            "url": "https://csclubauckland.github.io/www/predchozi-akce.html",
+            "title": "Předchozí akce",
+            "author": {
+                "name": "Tomas Adamek"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-10T16:50:05+12:00",
+            "date_modified": "2021-04-10T17:04:45+12:00"
+        },
+        {
+            "id": "https://csclubauckland.github.io/www/o-klubu.html",
+            "url": "https://csclubauckland.github.io/www/o-klubu.html",
+            "title": "O klubu",
+            "author": {
+                "name": "Tomas Adamek"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-10T16:16:32+12:00",
+            "date_modified": "2021-04-10T16:49:49+12:00"
+        }
+    ]
+}

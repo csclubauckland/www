@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>CS Club Auckland</title>
+    <link href="https://csclubauckland.github.io/www/feed.xml" rel="self" />
+    <link href="https://csclubauckland.github.io/www" />
+    <updated>2021-04-10T17:04:45+12:00</updated>
+    <author>
+        <name>Tomas Adamek</name>
+    </author>
+    <id>https://csclubauckland.github.io/www</id>
+
+    <entry>
+        <title>Guláš 2020</title>
+        <author>
+            <name>Tomas Adamek</name>
+        </author>
+        <link href="https://csclubauckland.github.io/www/gulas-2020.html"/>
+        <id>https://csclubauckland.github.io/www/gulas-2020.html</id>
+            <category term="Gulas"/>
+            <category term="2020"/>
+
+        <updated>2021-04-10T17:03:50+12:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Guláš 2021</title>
+        <author>
+            <name>Tomas Adamek</name>
+        </author>
+        <link href="https://csclubauckland.github.io/www/gulas-2021.html"/>
+        <id>https://csclubauckland.github.io/www/gulas-2021.html</id>
+            <category term="Gulas"/>
+            <category term="2021"/>
+
+        <updated>2021-04-10T17:04:00+12:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Nadcházející akce</title>
+        <author>
+            <name>Tomas Adamek</name>
+        </author>
+        <link href="https://csclubauckland.github.io/www/nadchazejici-akce.html"/>
+        <id>https://csclubauckland.github.io/www/nadchazejici-akce.html</id>
+
+        <updated>2021-04-10T17:04:30+12:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Předchozí akce</title>
+        <author>
+            <name>Tomas Adamek</name>
+        </author>
+        <link href="https://csclubauckland.github.io/www/predchozi-akce.html"/>
+        <id>https://csclubauckland.github.io/www/predchozi-akce.html</id>
+
+        <updated>2021-04-10T17:04:45+12:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>O klubu</title>
+        <author>
+            <name>Tomas Adamek</name>
+        </author>
+        <link href="https://csclubauckland.github.io/www/o-klubu.html"/>
+        <id>https://csclubauckland.github.io/www/o-klubu.html</id>
+
+        <updated>2021-04-10T16:49:49+12:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://csclubauckland.github.io/www/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://csclubauckland.github.io/www/</loc>
+</url>
+<url>
+<loc>https://csclubauckland.github.io/www/gulas-2020.html</loc>
+<lastmod>2021-04-10T17:03:50+12:00</lastmod>
+</url>
+<url>
+<loc>https://csclubauckland.github.io/www/gulas-2021.html</loc>
+<lastmod>2021-04-10T17:04:00+12:00</lastmod>
+</url>
+<url>
+<loc>https://csclubauckland.github.io/www/nadchazejici-akce.html</loc>
+<lastmod>2021-04-10T17:04:30+12:00</lastmod>
+</url>
+<url>
+<loc>https://csclubauckland.github.io/www/o-klubu.html</loc>
+<lastmod>2021-04-10T16:49:49+12:00</lastmod>
+</url>
+<url>
+<loc>https://csclubauckland.github.io/www/predchozi-akce.html</loc>
+<lastmod>2021-04-10T17:04:45+12:00</lastmod>
+</url>
+</urlset>
