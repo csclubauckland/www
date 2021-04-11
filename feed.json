@@ -37,21 +37,6 @@
             "date_modified": "2021-04-10T17:43:29+12:00"
         },
         {
-            "id": "https://csclubauckland.github.io/www/gulas-2021.html",
-            "url": "https://csclubauckland.github.io/www/gulas-2021.html",
-            "title": "Guláš 2021",
-            "author": {
-                "name": "Tomas Adamek"
-            },
-            "tags": [
-                   "Guláš",
-                   "Akce",
-                   "2021"
-            ],
-            "date_published": "2021-04-10T16:52:03+12:00",
-            "date_modified": "2021-04-10T17:43:20+12:00"
-        },
-        {
             "id": "https://csclubauckland.github.io/www/chystane-akce-2.html",
             "url": "https://csclubauckland.github.io/www/chystane-akce-2.html",
             "title": "Co chystáme",
@@ -93,6 +78,24 @@
             ],
             "date_published": "2021-04-10T16:16:32+12:00",
             "date_modified": "2021-04-10T16:49:49+12:00"
+        },
+        {
+            "id": "https://csclubauckland.github.io/www/gulas-2021.html",
+            "url": "https://csclubauckland.github.io/www/gulas-2021.html",
+            "title": "Guláš 2021",
+            "summary": " ",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"5\">\n<figure class=\"gallery__item\"><a href=\"https://csclubauckland.github.io/www/media/posts/4/gallery/IMG20210226143634.jpg\" data-size=\"3264x1472\"><img loading=\"lazy\" src=\"https://csclubauckland.github.io/www/media/posts/4/gallery/IMG20210226143634-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"346\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://csclubauckland.github.io/www/media/posts/4/gallery/20210227_131715.jpg\" data-size=\"4624x3468\"><img loading=\"lazy\" src=\"https://csclubauckland.github.io/www/media/posts/4/gallery/20210227_131715-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://csclubauckland.github.io/www/media/posts/4/gallery/IMG20210227132254-1-2.jpg\" data-size=\"4000x1808\"><img loading=\"lazy\" src=\"https://csclubauckland.github.io/www/media/posts/4/gallery/IMG20210227132254-1-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"347\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://csclubauckland.github.io/www/media/posts/4/gallery/IMG20210227134326-1-2.jpg\" data-size=\"4000x1808\"><img loading=\"lazy\" src=\"https://csclubauckland.github.io/www/media/posts/4/gallery/IMG20210227134326-1-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"347\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://csclubauckland.github.io/www/media/posts/4/gallery/20210227_142209-2.jpg\" data-size=\"4624x3468\"><img loading=\"lazy\" src=\"https://csclubauckland.github.io/www/media/posts/4/gallery/20210227_142209-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://csclubauckland.github.io/www/media/posts/4/gallery/PXL_20210227_023234033-2.jpg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://csclubauckland.github.io/www/media/posts/4/gallery/PXL_20210227_023234033-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://csclubauckland.github.io/www/media/posts/4/gallery/PXL_20210227_023237080-2.jpg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://csclubauckland.github.io/www/media/posts/4/gallery/PXL_20210227_023237080-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://csclubauckland.github.io/www/media/posts/4/gallery/PXL_20210227_023241451-2.jpg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://csclubauckland.github.io/www/media/posts/4/gallery/PXL_20210227_023241451-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://csclubauckland.github.io/www/media/posts/4/gallery/PXL_20210227_023306366-2.jpg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://csclubauckland.github.io/www/media/posts/4/gallery/PXL_20210227_023306366-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://csclubauckland.github.io/www/media/posts/4/gallery/IMG-2072-2.JPG\" data-size=\"3264x2448\"><img loading=\"lazy\" src=\"https://csclubauckland.github.io/www/media/posts/4/gallery/IMG-2072-2-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://csclubauckland.github.io/www/media/posts/4/gallery/1264A8A4-B67F-411A-8D7E-52EBF913549E-2.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://csclubauckland.github.io/www/media/posts/4/gallery/1264A8A4-B67F-411A-8D7E-52EBF913549E-2-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://csclubauckland.github.io/www/media/posts/4/gallery/AF0196CB-5C2D-475A-BAE3-DF39A656AC75-2.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://csclubauckland.github.io/www/media/posts/4/gallery/AF0196CB-5C2D-475A-BAE3-DF39A656AC75-2-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://csclubauckland.github.io/www/media/posts/4/gallery/9BAC58D5-E2CE-4176-BE2A-FFDC484F5161-2.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://csclubauckland.github.io/www/media/posts/4/gallery/9BAC58D5-E2CE-4176-BE2A-FFDC484F5161-2-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://csclubauckland.github.io/www/media/posts/4/gallery/5E0862B7-5B73-43AB-92D8-DD771BCC23A3-2.jpeg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://csclubauckland.github.io/www/media/posts/4/gallery/5E0862B7-5B73-43AB-92D8-DD771BCC23A3-2-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://csclubauckland.github.io/www/media/posts/4/gallery/C9EE0D7B-12D4-4A9E-BDE1-A4D9E886E9A2-2.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://csclubauckland.github.io/www/media/posts/4/gallery/C9EE0D7B-12D4-4A9E-BDE1-A4D9E886E9A2-2-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://csclubauckland.github.io/www/media/posts/4/gallery/F4E9483C-CAD7-492B-8C6C-2C79CBE8944B-2.jpeg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://csclubauckland.github.io/www/media/posts/4/gallery/F4E9483C-CAD7-492B-8C6C-2C79CBE8944B-2-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://csclubauckland.github.io/www/media/posts/4/gallery/IMG20210226184231.jpg\" data-size=\"1808x4000\"><img loading=\"lazy\" src=\"https://csclubauckland.github.io/www/media/posts/4/gallery/IMG20210226184231-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1699\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://csclubauckland.github.io/www/media/posts/4/gallery/IMG_20210227_141338-1-2.jpg\" data-size=\"1808x4000\"><img loading=\"lazy\" src=\"https://csclubauckland.github.io/www/media/posts/4/gallery/IMG_20210227_141338-1-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1699\"></a></figure>\n</div></div>",
+            "image": "https://csclubauckland.github.io/www/media/posts/4/20210227_142209.jpg",
+            "author": {
+                "name": "Tomas Adamek"
+            },
+            "tags": [
+                   "Guláš",
+                   "Akce",
+                   "2021"
+            ],
+            "date_published": "2021-03-25T14:00:00+13:00",
+            "date_modified": "2021-04-11T20:15:01+12:00"
         }
     ]
 }
