@@ -3,7 +3,7 @@
     <title>CS Club Auckland</title>
     <link href="https://csclubauckland.github.io/www/feed.xml" rel="self" />
     <link href="https://csclubauckland.github.io/www" />
-    <updated>2021-04-12T14:17:50+12:00</updated>
+    <updated>2021-04-12T14:58:49+12:00</updated>
     <author>
         <name>Tomas Adamek</name>
     </author>
@@ -22,24 +22,42 @@
         <content></content>
     </entry>
     <entry>
-        <title>Co chystáme</title>
+        <title>Co se chystá</title>
         <author>
             <name>Tomas Adamek</name>
         </author>
-        <link href="https://csclubauckland.github.io/www/chystane-akce-2.html"/>
-        <id>https://csclubauckland.github.io/www/chystane-akce-2.html</id>
+        <link href="https://csclubauckland.github.io/www/co-se-chysta.html"/>
+        <id>https://csclubauckland.github.io/www/co-se-chysta.html</id>
 
-        <updated>2021-04-10T19:46:11+12:00</updated>
+        <updated>2021-04-12T14:58:49+12:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://csclubauckland.github.io/www/media/posts/3/pig1.jpg" alt="" />
-                    Zrovna pilně pracujeme na přípravách pro letošního Čuníka na grilu (1. květen) a Pálení Čarodějnic (30. dubna). Více informací naleznete na našich facebookových stránkách.
+                    <p>Tady je seznam plánovaných akcí, na které se můžete těšit. Naleznete zde také informace o tom, jak si nenechat žádnou akci utéct. A samozřejmě nám můžete s nějakou i pomoct!</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://csclubauckland.github.io/www/media/posts/3/pig1.jpg" alt="" />
-                <p>Zrovna pilně pracujeme na přípravách pro letošního Čuníka na grilu (1. květen) a Pálení Čarodějnic (30. dubna). Více informací naleznete na našich <a href="https://www.facebook.com/csclubakl/events/" target="_blank" rel="noopener noreferrer">facebookových stránkách</a>.</p>
+                <p>Tady je seznam plánovaných akcí, na které se můžete těšit. Naleznete zde také informace o tom, jak si nenechat žádnou akci utéct. A samozřejmě nám můžete s nějakou i pomoct!</p>
+
+<p>Veškeré plánované akce vkládáme do našeho klubového kalendáře. Asi nejlepším způsobem, jak mít neustálý přehled o plánovaných akcích a dnech kdy se konají, je přidat se tento klubový kalendář do vašeho počítače či telefonu. Pokud navštívíte <a href="https://calendar.google.com/calendar/u/5?cid=aW5mb0Bjc2NsdWJhdWNrbGFuZC5vcmcubno" target="_blank" rel="noopener noreferrer">tento link</a> a máte google účet, stačí jen kliknout na tlačítko add a váš kalendář si bude automaticky načítat nové akce - a to na všech vašich zařízeních včetně vašeho telefonu či tabletu. Pokud google účet nemáte, můžete si zobrazit staticky kalendář <a href="https://calendar.google.com/calendar/embed?src=info%40csclubauckland.org.nz&amp;ctz=Pacific%2FAuckland" target="_blank" rel="noopener noreferrer">tady</a>. Anebo můžete zkusit <a href="https://calendar.google.com/calendar/ical/info%40csclubauckland.org.nz/public/basic.ics" target="_blank" rel="noopener noreferrer">iCalc format</a>, který by měl jít napojit na jakoukoliv jinou aplikaci.</p>
+<p>Zhruba měsíc před akcí pak zasíláme oficální pozvánku emailem a vytváříme událost na facebooku, kde se můžete přihlásit a získat podrobnější informace.</p>
+<p>Zrovna teď pilně pracujeme na přípravách pro letošního Čuníka na grilu a Pálení Čarodějnic.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 23.3612%;">30. duben 2021</td>
+<td style="width: 76.6388%;">Pálení čarodějnic - Bethells Beach, Auckland<br><a href="https://www.facebook.com/events/490195165447406" target="_blank" rel="noopener noreferrer">https://www.facebook.com/events/490195165447406</a></td>
+</tr>
+<tr>
+<td style="width: 23.3612%;">1. květen 2021</td>
+<td style="width: 76.6388%;">Grilování čuníka - Bethells Beach, Auckland<br><a href="https://www.facebook.com/events/377569429957768" target="_blank" rel="noopener noreferrer">https://www.facebook.com/events/377569429957768</a></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
             ]]>
         </content>
     </entry>
