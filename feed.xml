@@ -3,7 +3,7 @@
     <title>CS Club Auckland</title>
     <link href="https://csclubauckland.github.io/www/feed.xml" rel="self" />
     <link href="https://csclubauckland.github.io/www" />
-    <updated>2021-04-12T14:58:49+12:00</updated>
+    <updated>2021-04-16T21:31:52+12:00</updated>
     <author>
         <name>Tomas Adamek</name>
     </author>
@@ -17,9 +17,19 @@
         <link href="https://csclubauckland.github.io/www/kontakt.html"/>
         <id>https://csclubauckland.github.io/www/kontakt.html</id>
 
-        <updated>2021-04-10T19:49:45+12:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2021-04-16T21:05:08+12:00</updated>
+            <summary>
+                <![CDATA[
+                    Nejspolehlivějšímzpůsobem jak nás kontaktovat je posláním emailu na oficiální klubovou adresu info@csclubauckland.org.nz. Pokud používáte Facebook, pak nám můžete polsat zprávu přes náš profil https://www.facebook.com/csclubakl. Pokud byste chtěli kontaktovat členy našeho klubu a poslat jim nabídku s vašimi službami popřípadě s výrobky, které by je mohli zajímat, můžete využít emailovou konferenci&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Nejspolehlivějšímzpůsobem jak nás kontaktovat je posláním emailu na oficiální klubovou adresu <a href="mailto:info@csclubauckland.org.nz" target="_blank" rel="noopener noreferrer">info@csclubauckland.org.nz</a>.</p>
+<p>Pokud používáte Facebook, pak nám můžete polsat zprávu přes náš profil <a href="https://www.facebook.com/csclubakl" target="_blank" rel="noopener noreferrer">https://www.facebook.com/csclubakl</a>.</p>
+<p>Pokud byste chtěli kontaktovat členy našeho klubu a poslat jim nabídku s vašimi službami popřípadě s výrobky, které by je mohli zajímat, můžete využít emailovou konferenci a zaslat váš email na adresu <a href="mailto:csclubauckland@googlegroups.com" target="_blank" rel="noopener noreferrer">csclubauckland@googlegroups.com</a>. (tato konference je moderovaná a pokud se váš email nebude týkat české komunity, velice pravděpodobně nebude schválen). Archive této emailové konference si můžete prohlédnout na adrese <a href="https://groups.google.com/g/csclubauckland" target="_blank" rel="noopener noreferrer">https://groups.google.com/g/csclubauckland</a>. </p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Co se chystá</title>
@@ -95,20 +105,27 @@
         <link href="https://csclubauckland.github.io/www/o-klubu.html"/>
         <id>https://csclubauckland.github.io/www/o-klubu.html</id>
 
-        <updated>2021-04-12T14:17:50+12:00</updated>
+        <updated>2021-04-16T21:31:52+12:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://csclubauckland.github.io/www/media/posts/1/vlajky.jpg" alt="" />
-                    <p>Zde naleznete veškeré informace o vzniku a provozu klubů, záznamy z klubových schůzí a roční uzávěrky.</p>
+                    <p>Československý klub je nezisková organizace jejíž chod spravuje klubový výbor. Členové výboru jsou dobrovolnící a za jejich práci jim není poskytována žádná odměna.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://csclubauckland.github.io/www/media/posts/1/vlajky.jpg" alt="" />
-                <p>Zde naleznete veškeré informace o vzniku a provozu klubů, záznamy z klubových schůzí a roční uzávěrky.</p>
+                <p>Československý klub je nezisková organizace jejíž chod spravuje klubový výbor. Členové výboru jsou dobrovolnící a za jejich práci jim není poskytována žádná odměna.</p>
 
-<p> </p>
+<p>Členem výboru se může stát kterýkoliv člen našeho spolku - pokud byste měli zájem se podílet na chodu klubu a pomáhat nám s vymýšlením a realizováním akcí pro naše členy, neváhejte nás <a href="https://csclubauckland.github.io/www/kontakt.html">kontaktovat</a> - velice rádi vás mezi námi přivítáme.</p>
+<p>Každý rok je členy výboru volen předseda klubu - nositel této čestné funkce má za úkol klub reprezentovat a je jeho hlavní kontaktní osobou.</p>
+<p>Spolek hospodaří s minimálním rozpočtem jehož hlavní zdroj tvoří dotace z České republiky - a někdy také přebytky z akcí klubem pořádaných. Veškeré tyto příjmy jsou pak použité na další akce pořádané pro členy klubu.</p>
+<p>Veškeré dokumenty týkající se chodu klubu jsou veřejně přístupné tady.</p>
+<p><strong>Oficiální název:</strong> CZECH AND SLOVAK SOCIETY AUCKLAND INCORPORATED<br><strong>Alternativní název:</strong> CS Club Auckland<br><strong>Korespondenční adresa:</strong> 7 Glenside Ave, Pakuranga Heights, Auckland</p>
+<h5>Členové výboru</h5>
+<p><strong>Předseda:</strong> Hana Růžičková<br><strong>Pokladník:</strong> Hana Terry<br><strong>Ostatní členové:</strong> Bohuslav Brenner, Jiří Dostalík, Roland Kiss, Tomáš Adámek, Tomáš Friml</p>
+<h3> </h3>
             ]]>
         </content>
     </entry>
