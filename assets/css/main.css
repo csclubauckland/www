@@ -2025,7 +2025,7 @@ textarea {
   color: var(--gray-2);
   font-size: 0.7901234568rem;
   font-style: italic;
-  margin: 1rem 0 0;
+  margin: 0.5rem 0 0.5rem;
 }
 .post__tags-share {
   display: -webkit-box;
