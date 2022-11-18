@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>CS Club Auckland</title>
     <link href="https://csclubauckland.org.nz/feed.xml" rel="self" />
     <link href="https://csclubauckland.org.nz" />
@@ -16,20 +16,16 @@
         </author>
         <link href="https://csclubauckland.org.nz/carodejnice/"/>
         <id>https://csclubauckland.org.nz/carodejnice/</id>
+        <media:content url="https://csclubauckland.org.nz/media/posts/12/2021-04-30_20-29b.jpg" medium="image" />
             <category term="Čarodějnice"/>
             <category term="Akce"/>
             <category term="2021"/>
 
         <updated>2021-05-05T16:11:59+12:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://csclubauckland.org.nz/media/posts/12/2021-04-30_20-29b.jpg" alt="" />
-                     
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://csclubauckland.org.nz/media/posts/12/2021-04-30_20-29b.jpg" alt="" />
+                    <p><img src="https://csclubauckland.org.nz/media/posts/12/2021-04-30_20-29b.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="5">
 <figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/12/gallery/2021-04-30_20-18.jpg" data-size="1600x901"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/12/gallery/2021-04-30_20-18-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/12/gallery/2021-04-30_20-17.jpg" data-size="1600x901"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/12/gallery/2021-04-30_20-17-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
@@ -50,20 +46,16 @@
         </author>
         <link href="https://csclubauckland.org.nz/cunik-2021/"/>
         <id>https://csclubauckland.org.nz/cunik-2021/</id>
+        <media:content url="https://csclubauckland.org.nz/media/posts/11/2021-05-01_15-32.jpg" medium="image" />
             <category term="Čuník"/>
             <category term="Akce"/>
             <category term="2021"/>
 
         <updated>2021-05-05T16:41:34+12:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://csclubauckland.org.nz/media/posts/11/2021-05-01_15-32.jpg" alt="" />
-                     
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://csclubauckland.org.nz/media/posts/11/2021-05-01_15-32.jpg" alt="" />
+                    <p><img src="https://csclubauckland.org.nz/media/posts/11/2021-05-01_15-32.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="5">
 <figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_08-14-2.jpg" data-size="1600x901"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_08-14-2-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_07-18-2.jpg" data-size="1600x900"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_07-18-2-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
@@ -114,6 +106,7 @@
         </author>
         <link href="https://csclubauckland.org.nz/co-se-chysta/"/>
         <id>https://csclubauckland.org.nz/co-se-chysta/</id>
+        <media:content url="https://csclubauckland.org.nz/media/posts/3/pig.jpg" medium="image" />
 
         <updated>2021-05-05T16:39:40+12:00</updated>
             <summary>
@@ -125,7 +118,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://csclubauckland.org.nz/media/posts/3/pig.jpg" alt="" />
+                    <p><img src="https://csclubauckland.org.nz/media/posts/3/pig.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Tady je seznam plánovaných akcí, na které se můžete těšit. Naleznete zde také informace o tom, jak si nenechat žádnou akci utéct. A samozřejmě nám můžete s nějakou i pomoct!</p>
 
 <p>Veškeré plánované akce vkládáme do našeho klubového kalendáře. Asi nejlepším způsobem, jak mít neustálý přehled o plánovaných akcích a dnech kdy se konají, je přidat se tento klubový kalendář do vašeho počítače či telefonu. Pokud navštívíte <a href="https://calendar.google.com/calendar/u/5?cid=aW5mb0Bjc2NsdWJhdWNrbGFuZC5vcmcubno" target="_blank" rel="noopener noreferrer">tento link</a> a máte google účet, stačí jen kliknout na tlačítko add a váš kalendář si bude automaticky načítat nové akce - a to na všech vašich zařízeních včetně vašeho telefonu či tabletu. Pokud google účet nemáte, můžete si zobrazit staticky kalendář <a href="https://calendar.google.com/calendar/embed?src=info%40csclubauckland.org.nz&amp;ctz=Pacific%2FAuckland" target="_blank" rel="noopener noreferrer">tady</a>. Anebo můžete zkusit <a href="https://calendar.google.com/calendar/ical/info%40csclubauckland.org.nz/public/basic.ics" target="_blank" rel="noopener noreferrer">iCalc format</a>, který by měl jít napojit na jakoukoliv jinou aplikaci.</p>
@@ -143,6 +136,7 @@
         </author>
         <link href="https://csclubauckland.org.nz/probehle-akce/"/>
         <id>https://csclubauckland.org.nz/probehle-akce/</id>
+        <media:content url="https://csclubauckland.org.nz/media/posts/2/gulas.jpg" medium="image" />
             <category term="Akce"/>
 
         <updated>2021-05-05T16:10:33+12:00</updated>
@@ -155,7 +149,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://csclubauckland.org.nz/media/posts/2/gulas.jpg" alt="" />
+                    <p><img src="https://csclubauckland.org.nz/media/posts/2/gulas.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Jednou z hlavních aktivit Českého klubu je pořádání akcí pro krajany a jejich děti. Ať už se jedná o Guláš party, opékání čuníka popřípadě několikadenní pobyt na jednom z mnoha Aucklandskych ostrůvků.</p>
 
 <p>Na následující stránce naleznete pár fotoreportu z již proběhlých akcí.</p>
@@ -169,6 +163,7 @@
         </author>
         <link href="https://csclubauckland.org.nz/o-klubu/"/>
         <id>https://csclubauckland.org.nz/o-klubu/</id>
+        <media:content url="https://csclubauckland.org.nz/media/posts/1/vlajky-2.jpg" medium="image" />
 
         <updated>2021-05-05T16:11:00+12:00</updated>
             <summary>
@@ -180,7 +175,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://csclubauckland.org.nz/media/posts/1/vlajky-2.jpg" alt="" />
+                    <p><img src="https://csclubauckland.org.nz/media/posts/1/vlajky-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Československý klub je nezisková organizace, jejíž chod spravuje klubový výbor. Členové výboru jsou dobrovolnící a za jejich práci jim není poskytována žádná odměna.</p>
 
 <p>Členem výboru se může stát kterýkoliv člen našeho spolku - pokud byste měli zájem se podílet na chodu klubu a pomáhat nám s vymýšlením a realizováním akcí pro naše členy, neváhejte nás <a href="https://csclubauckland.org.nz/kontakt/">kontaktovat</a> - velice rádi vás mezi námi přivítáme.</p>
@@ -201,20 +196,16 @@
         </author>
         <link href="https://csclubauckland.org.nz/gulas-2021/"/>
         <id>https://csclubauckland.org.nz/gulas-2021/</id>
+        <media:content url="https://csclubauckland.org.nz/media/posts/4/2021-02-27_14-22.jpg" medium="image" />
             <category term="Guláš"/>
             <category term="Akce"/>
             <category term="2021"/>
 
         <updated>2021-05-04T09:06:53+12:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://csclubauckland.org.nz/media/posts/4/2021-02-27_14-22.jpg" alt="" />
-                     
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://csclubauckland.org.nz/media/posts/4/2021-02-27_14-22.jpg" alt="" />
+                    <p><img src="https://csclubauckland.org.nz/media/posts/4/2021-02-27_14-22.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="5">
 <figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/4/gallery/2021-02-26_14-36.jpg" data-size="1600x722"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/4/gallery/2021-02-26_14-36-thumbnail.jpg" alt="" width="768" height="347"></a></figure>
 <figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/4/gallery/2021-02-26_18-42.jpg" data-size="723x1600"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/4/gallery/2021-02-26_18-42-thumbnail.jpg" alt="" width="723" height="1600"></a></figure>
@@ -245,20 +236,16 @@
         </author>
         <link href="https://csclubauckland.org.nz/cunik-2020/"/>
         <id>https://csclubauckland.org.nz/cunik-2020/</id>
+        <media:content url="https://csclubauckland.org.nz/media/posts/10/2020-08-01_13-14.jpg" medium="image" />
             <category term="Čuník"/>
             <category term="Akce"/>
             <category term="2020"/>
 
         <updated>2021-05-04T09:19:30+12:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://csclubauckland.org.nz/media/posts/10/2020-08-01_13-14.jpg" alt="" />
-                     
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://csclubauckland.org.nz/media/posts/10/2020-08-01_13-14.jpg" alt="" />
+                    <p><img src="https://csclubauckland.org.nz/media/posts/10/2020-08-01_13-14.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="5">
 <figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/10/gallery/2020-07-28_08-28.jpg" data-size="1600x1200"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/10/gallery/2020-07-28_08-28-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
 <figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/10/gallery/2020-07-28_08-36.jpg" data-size="1200x1600"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/10/gallery/2020-07-28_08-36-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
@@ -321,20 +308,16 @@
         </author>
         <link href="https://csclubauckland.org.nz/gulas-2020/"/>
         <id>https://csclubauckland.org.nz/gulas-2020/</id>
+        <media:content url="https://csclubauckland.org.nz/media/posts/5/2021-04-12_11-40i.jpg" medium="image" />
             <category term="Guláš"/>
             <category term="Akce"/>
             <category term="2020"/>
 
         <updated>2021-05-04T09:08:23+12:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://csclubauckland.org.nz/media/posts/5/2021-04-12_11-40i.jpg" alt="" />
-                     
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://csclubauckland.org.nz/media/posts/5/2021-04-12_11-40i.jpg" alt="" />
+                    <p><img src="https://csclubauckland.org.nz/media/posts/5/2021-04-12_11-40i.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="5">
 <figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/5/gallery/2021-04-12_11-40.jpg" data-size="960x720"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/5/gallery/2021-04-12_11-40-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
 <figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/5/gallery/2021-04-12_11-40a.jpg" data-size="960x720"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/5/gallery/2021-04-12_11-40a-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
@@ -364,20 +347,16 @@
         </author>
         <link href="https://csclubauckland.org.nz/cunik-2015/"/>
         <id>https://csclubauckland.org.nz/cunik-2015/</id>
+        <media:content url="https://csclubauckland.org.nz/media/posts/9/2015-04-18_12-52.jpg" medium="image" />
             <category term="Čuník"/>
             <category term="Akce"/>
             <category term="2015"/>
 
         <updated>2021-05-04T09:19:41+12:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://csclubauckland.org.nz/media/posts/9/2015-04-18_12-52.jpg" alt="" />
-                     
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://csclubauckland.org.nz/media/posts/9/2015-04-18_12-52.jpg" alt="" />
+                    <p><img src="https://csclubauckland.org.nz/media/posts/9/2015-04-18_12-52.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="5">
 <figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-17_21-31.jpg" data-size="1184x1600"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-17_21-31-thumbnail.jpg" alt="" width="768" height="1038"></a></figure>
 <figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-17_21-31a.jpg" data-size="1600x1184"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-17_21-31a-thumbnail.jpg" alt="" width="768" height="568"></a></figure>
