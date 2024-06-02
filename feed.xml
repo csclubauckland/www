@@ -3,14 +3,14 @@
     <title>CS Club Auckland</title>
     <link href="https://csclubauckland.org.nz/feed.xml" rel="self" />
     <link href="https://csclubauckland.org.nz" />
-    <updated>2024-06-03T10:39:25+12:00</updated>
+    <updated>2024-06-03T10:46:43+12:00</updated>
     <author>
         <name>Tomas Adamek</name>
     </author>
     <id>https://csclubauckland.org.nz</id>
 
     <entry>
-        <title>Čuník 2024</title>
+        <title>Čuník &amp; Čarodějnice 2024</title>
         <author>
             <name>Tomas Adamek</name>
         </author>
@@ -21,7 +21,7 @@
             <category term="Akce"/>
             <category term="2024"/>
 
-        <updated>2024-06-03T10:39:25+12:00</updated>
+        <updated>2024-06-03T10:41:03+12:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://csclubauckland.org.nz/media/posts/14/cunik-001.jpg" alt="" />
@@ -54,37 +54,7 @@
         </content>
     </entry>
     <entry>
-        <title>Čarodějnice 2021</title>
-        <author>
-            <name>Tomas Adamek</name>
-        </author>
-        <link href="https://csclubauckland.org.nz/carodejnice/"/>
-        <id>https://csclubauckland.org.nz/carodejnice/</id>
-        <media:content url="https://csclubauckland.org.nz/media/posts/12/2021-04-30_20-29b.jpg" medium="image" />
-            <category term="Čarodějnice"/>
-            <category term="Akce"/>
-            <category term="2021"/>
-
-        <updated>2021-05-05T16:11:59+12:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://csclubauckland.org.nz/media/posts/12/2021-04-30_20-29b.jpg" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="5">
-<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/12/gallery/2021-04-30_20-18.jpg" data-size="1600x901"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/12/gallery/2021-04-30_20-18-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/12/gallery/2021-04-30_20-17.jpg" data-size="1600x901"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/12/gallery/2021-04-30_20-17-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/12/gallery/2021-04-30_20-28.jpg" data-size="1600x901"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/12/gallery/2021-04-30_20-28-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/12/gallery/2021-04-30_20-35.jpg" data-size="1600x901"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/12/gallery/2021-04-30_20-35-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/12/gallery/2021-04-30_20-27.jpg" data-size="901x1600"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/12/gallery/2021-04-30_20-27-thumbnail.jpg" alt="" width="768" height="1364"></a></figure>
-<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/12/gallery/2021-04-30_20-29.jpg" data-size="901x1600"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/12/gallery/2021-04-30_20-29-thumbnail.jpg" alt="" width="768" height="1364"></a></figure>
-<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/12/gallery/2021-04-30_20-29a.jpg" data-size="901x1600"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/12/gallery/2021-04-30_20-29a-thumbnail.jpg" alt="" width="768" height="1364"></a></figure>
-<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/12/gallery/2021-04-30_20-29b.jpg" data-size="901x1600"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/12/gallery/2021-04-30_20-29b-thumbnail.jpg" alt="" width="768" height="1364"></a></figure>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Čuník 2021</title>
+        <title>Čuník &amp; Čarodějnice 2021</title>
         <author>
             <name>Tomas Adamek</name>
         </author>
@@ -95,19 +65,14 @@
             <category term="Akce"/>
             <category term="2021"/>
 
-        <updated>2021-05-05T16:41:34+12:00</updated>
+        <updated>2024-06-03T10:46:43+12:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://csclubauckland.org.nz/media/posts/11/2021-05-01_15-32.jpg" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="5">
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_08-14-2.jpg" data-size="1600x901"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_08-14-2-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_07-18-2.jpg" data-size="1600x900"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_07-18-2-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_08-59-2.jpg" data-size="1600x1060"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_08-59-2-thumbnail.jpg" alt="" width="768" height="509"></a></figure>
-<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_08-58-2.jpg" data-size="1600x1600"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_08-58-2-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_13-12-2.jpg" data-size="1600x1486"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_13-12-2-thumbnail.jpg" alt="" width="768" height="713"></a></figure>
-<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_13-11-2.jpg" data-size="1600x1600"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_13-11-2-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_13-52-2.jpg" data-size="1600x1155"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_13-52-2-thumbnail.jpg" alt="" width="768" height="554"></a></figure>
 <figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_15-34-2.jpg" data-size="1060x1600"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_15-34-2-thumbnail.jpg" alt="" width="768" height="1159"></a></figure>
 <figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_15-32-2.jpg" data-size="1600x901"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_15-32-2-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_13-23-2.jpg" data-size="1600x1200"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_13-23-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
@@ -117,6 +82,11 @@
 <figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/11/gallery/2021-04-30_21-56-2.jpg" data-size="900x1600"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/11/gallery/2021-04-30_21-56-2-thumbnail.jpg" alt="" width="768" height="1365"></a></figure>
 <figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_13-22-2.jpg" data-size="1200x1600"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_13-22-2-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
 <figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_14-39a-2.jpg" data-size="1200x1600"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/11/gallery/2021-05-01_14-39a-2-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/11/gallery/carodejnice-2021.jpeg" data-size="4624x2604"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/11/gallery/carodejnice-2021-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/11/gallery/carodejnice-2021-002.jpeg" data-size="4624x2604"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/11/gallery/carodejnice-2021-002-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/11/gallery/carodejnice-2021-003.jpeg" data-size="4624x2604"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/11/gallery/carodejnice-2021-003-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/11/gallery/carodejnice-2021-004.jpeg" data-size="4624x2604"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/11/gallery/carodejnice-2021-004-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/11/gallery/carodejnice-2024-006.jpeg" data-size="3412x1920"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/11/gallery/carodejnice-2024-006-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
 </div></div>
             ]]>
         </content>
@@ -378,6 +348,51 @@
 <figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/5/gallery/2021-04-12_11-40n.jpg" data-size="720x960"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/5/gallery/2021-04-12_11-40n-thumbnail.jpg" alt="" width="720" height="960"></a></figure>
 <figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/5/gallery/2021-04-12_11-40o.jpg" data-size="960x720"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/5/gallery/2021-04-12_11-40o-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
 <figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/5/gallery/2021-04-12_11-40p.jpg" data-size="960x720"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/5/gallery/2021-04-12_11-40p-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Čuník 2015</title>
+        <author>
+            <name>Tomas Adamek</name>
+        </author>
+        <link href="https://csclubauckland.org.nz/cunik-2015/"/>
+        <id>https://csclubauckland.org.nz/cunik-2015/</id>
+        <media:content url="https://csclubauckland.org.nz/media/posts/9/2015-04-18_12-52.jpg" medium="image" />
+            <category term="Čuník"/>
+            <category term="Akce"/>
+            <category term="2015"/>
+
+        <updated>2021-05-04T09:19:41+12:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://csclubauckland.org.nz/media/posts/9/2015-04-18_12-52.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="5">
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-17_21-31.jpg" data-size="1184x1600"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-17_21-31-thumbnail.jpg" alt="" width="768" height="1038"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-17_21-31a.jpg" data-size="1600x1184"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-17_21-31a-thumbnail.jpg" alt="" width="768" height="568"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-17_21-31b.jpg" data-size="1184x1600"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-17_21-31b-thumbnail.jpg" alt="" width="768" height="1038"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-17_22-03.jpg" data-size="1600x1184"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-17_22-03-thumbnail.jpg" alt="" width="768" height="568"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-17_22-14.jpg" data-size="1184x1600"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-17_22-14-thumbnail.jpg" alt="" width="768" height="1038"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-17_23-02.jpg" data-size="1184x1600"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-17_23-02-thumbnail.jpg" alt="" width="768" height="1038"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_06-17.jpg" data-size="1600x1122"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_06-17-thumbnail.jpg" alt="" width="768" height="539"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_07-16.jpg" data-size="1600x1184"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_07-16-thumbnail.jpg" alt="" width="768" height="568"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_07-16a.jpg" data-size="1184x1600"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_07-16a-thumbnail.jpg" alt="" width="768" height="1038"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_07-57.jpg" data-size="1600x1184"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_07-57-thumbnail.jpg" alt="" width="768" height="568"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_07-57a.jpg" data-size="1600x1184"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_07-57a-thumbnail.jpg" alt="" width="768" height="568"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_09-15.jpg" data-size="1600x1184"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_09-15-thumbnail.jpg" alt="" width="768" height="568"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_09-15a.jpg" data-size="1600x1184"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_09-15a-thumbnail.jpg" alt="" width="768" height="568"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_10-16.jpg" data-size="1600x1184"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_10-16-thumbnail.jpg" alt="" width="768" height="568"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_10-23.jpg" data-size="1600x1184"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_10-23-thumbnail.jpg" alt="" width="768" height="568"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_11-33.jpg" data-size="1600x1184"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_11-33-thumbnail.jpg" alt="" width="768" height="568"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_11-33a.jpg" data-size="1600x1184"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_11-33a-thumbnail.jpg" alt="" width="768" height="568"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_11-41.jpg" data-size="1600x1184"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_11-41-thumbnail.jpg" alt="" width="768" height="568"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_11-42.jpg" data-size="1184x1600"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_11-42-thumbnail.jpg" alt="" width="768" height="1038"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_11-50.jpg" data-size="1600x1184"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_11-50-thumbnail.jpg" alt="" width="768" height="568"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_12-52.jpg" data-size="1600x1184"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_12-52-thumbnail.jpg" alt="" width="768" height="568"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_15-26.jpg" data-size="1600x1184"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_15-26-thumbnail.jpg" alt="" width="768" height="568"></a></figure>
+<figure class="gallery__item"><a href="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_15-51.jpg" data-size="1600x1184"><img loading="lazy" src="https://csclubauckland.org.nz/media/posts/9/gallery/2015-04-18_15-51-thumbnail.jpg" alt="" width="768" height="568"></a></figure>
 </div></div>
             ]]>
         </content>
