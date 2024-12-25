@@ -29,8 +29,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://csclubauckland.org.nz/media/posts/3/pig.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Tady je seznam plánovaných akcí, na které se můžete těšit. Naleznete zde také informace o tom, jak si nenechat žádnou akci utéct. A samozřejmě nám můžete s nějakou i pomoct!</p>
-
+                
 <p>Veškeré plánované akce vkládáme do našeho klubového kalendáře. Asi nejlepším způsobem, jak mít neustálý přehled o plánovaných akcích a dnech kdy se konají, je přidat se tento klubový kalendář do vašeho počítače či telefonu. Pokud navštívíte <a href="https://calendar.google.com/calendar/u/5?cid=aW5mb0Bjc2NsdWJhdWNrbGFuZC5vcmcubno" target="_blank" rel="noopener noreferrer">tento link</a> a máte google účet, stačí jen kliknout na tlačítko add a váš kalendář si bude automaticky načítat nové akce - a to na všech vašich zařízeních včetně vašeho telefonu či tabletu. Pokud google účet nemáte, můžete si zobrazit staticky kalendář <a href="https://calendar.google.com/calendar/embed?src=info%40csclubauckland.org.nz&amp;ctz=Pacific%2FAuckland" target="_blank" rel="noopener noreferrer">tady</a>. Anebo můžete zkusit <a href="https://calendar.google.com/calendar/ical/info%40csclubauckland.org.nz/public/basic.ics" target="_blank" rel="noopener noreferrer">iCalc format</a>, který by měl jít napojit na jakoukoliv jinou aplikaci.</p>
 <p>Zhruba měsíc před akcí pak zasíláme oficální pozvánku emailem a vytváříme událost na facebooku, kde se můžete přihlásit a získat podrobnější informace.</p>
 <div> <gcal-event-list></gcal-event-list></div>
@@ -58,8 +57,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://csclubauckland.org.nz/media/posts/2/gulas.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Jednou z hlavních aktivit Českého klubu je pořádání akcí pro krajany a jejich děti. Ať už se jedná o Guláš party, opékání čuníka popřípadě několikadenní pobyt na jednom z mnoha Aucklandskych ostrůvků.</p>
-
+                
 <p>Na následující stránce naleznete pár fotoreportu z již proběhlých akcí.</p>
             ]]>
         </content>
@@ -84,8 +82,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://csclubauckland.org.nz/media/posts/1/vlajky-2.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Československý klub je nezisková organizace, jejíž chod spravuje klubový výbor. Členové výboru jsou dobrovolnící a za jejich práci jim není poskytována žádná odměna.</p>
-
+                
 <p>Členem výboru se může stát kterýkoliv člen našeho spolku - pokud byste měli zájem se podílet na chodu klubu a pomáhat nám s vymýšlením a realizováním akcí pro naše členy, neváhejte nás <a href="https://csclubauckland.org.nz/kontakt/">kontaktovat</a> - velice rádi vás mezi námi přivítáme.</p>
 <p>Každý rok je členy klubu volen předseda klubu - nositel této čestné funkce má za úkol klub reprezentovat a je jeho hlavní kontaktní osobou. OStatní klubové funkce jsou pak voleny členy výboru.</p>
 <p>Spolek hospodaří s minimálním rozpočtem, jehož hlavní zdroj tvoří dotace z České republiky - a někdy také přebytky z akcí klubem pořádaných. Veškeré tyto příjmy jsou pak použité na další akce pořádané pro členy klubu.</p>
