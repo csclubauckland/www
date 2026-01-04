@@ -19,7 +19,7 @@
         <media:content url="https://csclubauckland.org.nz/media/posts/3/pig.jpg" medium="image" />
 
         <updated>2021-04-10T16:51:58+12:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://csclubauckland.org.nz/media/posts/3/pig.jpg" alt="" />
                     <p>Tady je seznam plánovaných akcí, na které se můžete těšit. Naleznete zde také informace o tom, jak si nenechat žádnou akci utéct. A samozřejmě nám můžete s nějakou i pomoct!</p>
@@ -47,7 +47,7 @@
             <category term="Akce"/>
 
         <updated>2021-04-10T16:50:05+12:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://csclubauckland.org.nz/media/posts/2/gulas.jpg" alt="" />
                     <p>Jednou z hlavních aktivit Českého klubu je pořádání akcí pro krajany a jejich děti. Ať už se jedná o Guláš party, opékání čuníka popřípadě několikadenní pobyt na jednom z mnoha Aucklandskych ostrůvků.</p>
@@ -72,7 +72,7 @@
         <media:content url="https://csclubauckland.org.nz/media/posts/1/vlajky-2.jpg" medium="image" />
 
         <updated>2021-04-10T16:16:32+12:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://csclubauckland.org.nz/media/posts/1/vlajky-2.jpg" alt="" />
                     <p>Československý klub je nezisková organizace, jejíž chod spravuje klubový výbor. Členové výboru jsou dobrovolnící a za jejich práci jim není poskytována žádná odměna.</p>
